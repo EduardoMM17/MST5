@@ -1,0 +1,15 @@
+{
+  "command": {
+    "init": {
+      "exact": true
+    },
+    "bootstrap": {
+      "npmClient": "npm",
+      "npmClientArgs": []
+    }
+  },
+  "packages": [
+    "client", "http.app", "mono.app"
+  ],
+  "version": "independent"
+}
